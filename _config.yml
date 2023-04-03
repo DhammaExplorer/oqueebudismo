@@ -1,16 +1,14 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
-description: >
-  Build Jekyll site with the GitBook style.
-
+title:            'O que é Budismo?'
+longtitle:        ''
+author:           'Ajahn Brahmavamso'
+email:            'webmaster@oquebudismo.com.br'
+description: 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://dhammaexplorer.github.io'
+baseurl:          '/oqueebudismo'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
