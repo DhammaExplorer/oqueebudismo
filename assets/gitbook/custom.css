@@ -164,7 +164,7 @@
 /* Render wide tables */
 
 .table-wrapper {
-    overflow-x: scroll;
+    overflow-x: visible;
 }
 
 /* Tips, warnings, and dangers */
