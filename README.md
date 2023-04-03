@@ -145,6 +145,6 @@ Desde o início, a prática da meditação tem sido o cerne do caminho Budista. 
 
 Nosso mundo é muito pequeno e vulnerável para vivermos sozinhos e com raiva. Portanto, a tolerância, o amor e a compaixão são muito importantes. Essas qualidades da mente, essenciais para a felicidade, são desenvolvidas na meditação Budista para então serem colocadas diligentemente em prática na vida cotidiana.
 
-Perdão, generosidade, evitar o mau, compaixão, são as conhecidas "marcas registradas" do Budismo e são dadas livre e amplamente a todos os seres, incluindo animais é claro, e ambém, mais importante, a si mesmo. Não há lugar para culpa ou ódio de si mesmo no Budismo, nem mesmo lugar para ficar lamentando alguma culpa!
+Perdão, generosidade, evitar o mau, compaixão, são as conhecidas "marcas registradas" do Budismo e são dadas livre e amplamente a todos os seres, incluindo animais é claro, e também, mais importante, a si mesmo. Não há lugar para culpa ou ódio de si mesmo no Budismo, nem mesmo lugar para ficar lamentando alguma culpa!
 
 Ensinamentos e práticas como essas são as que trazem qualidades de bondade gentil, serenidade inabalável e sabedoria, identificadas com o Budismo há mais de 25 séculos e extremamente necessárias no mundo de hoje. É esta paz e tolerância, evoluindo a partir de uma filosofia profunda, porém razoável, que torna a mensagem do Buda atemporal e sempre vitalmente relevante.
