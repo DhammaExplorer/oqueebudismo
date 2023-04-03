@@ -161,6 +161,12 @@
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+/* Wrap the lists */
+
+.code {
+    overflow-x: visible;
+}
+
 /* Render wide tables */
 
 .table-wrapper {
