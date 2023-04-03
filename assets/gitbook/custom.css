@@ -167,12 +167,6 @@
     overflow-x: scroll;
 }
 
-/* Wrap words withing code blocks */
-
-.highlight pre {
-    white-space: pre-wrap;
-}
-
 /* Tips, warnings, and dangers */
 
 .markdown-section blockquote.block-tip {
