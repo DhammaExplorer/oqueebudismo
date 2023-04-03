@@ -1,5 +1,5 @@
             "sharing": {
-                "all": ["facebook", "google", "twitter", "telegram"],
+                "all": ["facebook", "twitter"],
                 "facebook": true,
                 "google": false,
                 "github": false,
@@ -7,7 +7,7 @@
                 "telegram": false,
                 "telegram_link": "https://t.me",
                 "instapaper": false,
-                "twitter": false,
+                "twitter": true,
                 "vk": false,
                 "weibo": false
             },
