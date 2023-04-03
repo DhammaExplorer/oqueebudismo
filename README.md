@@ -65,11 +65,11 @@ O caminho para o fim de todo sofrimento é chamado *caminho do meio*, porque evi
 
 Linguagem, ação e modo de vida corretos constituem o treinamento na virtude ou moralidade. Para um Budista leigo praticante consiste em manter os cinco preceitos Budistas, que são abster-se de:
 
-    1. Matar deliberadamente qualquer ser vivo; 
-    2. Roubar;
-    3. Má conduta sexual, em particular adultério;
-    4. Mentir;
-    5. Beber álcool e tomar drogas não medicinais que conduzem a um enfraquecimento da atenção plena e do juízo moral. 
+>    1. Matar deliberadamente qualquer ser vivo;  
+>    2. Roubar;  
+>    3. Má conduta sexual, em particular adultério;  
+>    4. Mentir;  
+>    5. Beber álcool e tomar drogas não medicinais que conduzem a um enfraquecimento da atenção plena e do juízo moral.
 
 Esforço correto, atenção plena e quietude corretas referem-se à prática da meditação, que purifica a mente por meio da experiência de estados felizes de tranquilidade interior e capacita a mente a penetrar no sentido da vida por meio de profundos momentos de insight.
 
