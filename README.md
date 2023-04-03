@@ -41,11 +41,8 @@ O principal ensinamento do Buda não se concentra na especulação filosófica s
 Assim, o ensinamento central do Buda, em torno do qual todos os seus outros ensinamentos giram, são as *quatro nobres verdades*:
 
     1. Todos os seres, humanos ou não, são atormentados por todos os tipos de decepções, tristezas, desconfortos, ansiedades, etc. Resumindo, eles estão sujeitos ao sofrimento.
-    
     2. A causa desse sofrimento é o desejo, nascido da ilusão de uma ‘alma’ (veja abaixo, tópico 7).
-    
     3. O sofrimento tem um fim na experiência do despertar (Nirvana), que é o completo abandono da ilusão da “alma” e o consequente fim do desejo e da má vontade.
-    
     4. Este despertar pacífico e bem-aventurado é alcançado através de um treinamento gradual, um caminho chamado *caminho do meio* ou *caminho óctuplo*.
     
 Seria um erro rotular esse ensinamento como “pessimista” com base no fato de que começa focando no sofrimento. Em vez disso, o Budismo é “realista” na medida em que enfrenta rigorosamente a verdade dos muitos sofrimentos da vida, e é “otimista” na medida em que mostra um fim definitivo para o problema: Nirvana, despertar nesta mesma vida! Aqueles que alcançaram esta paz definitiva são exemplos inspiradores que demonstram de uma vez por todas que o Budismo está longe de ser pessimista, mas um caminho para a verdadeira felicidade.
@@ -54,19 +51,12 @@ Seria um erro rotular esse ensinamento como “pessimista” com base no fato de
 O caminho para o fim de todo sofrimento é chamado *caminho do meio*, porque evita os dois extremos da indulgência sensual e do tormento para si mesmo. Somente quando o corpo está em um conforto razoável, mas não em excesso, a mente tem clareza e força para meditar profundamente e descobrir a verdade. Este caminho do meio consiste no cultivo diligente da virtude, meditação e sabedoria, que são explicados em mais detalhes como *o caminho óctuplo*:
 
     1. Entendimento Correto 
-    
     2. Pensamento Correto 
-    
     3. Linguagem Correta 
-    
     4. Ação Correta 
-    
     5. Modo de Vida Correto 
-    
     6. Esforço Correto 
-    
     7. Atenção Plena Correta 
-    
     8. Quietude Correta
 
 ('Correto' no sentido de conduzir à felicidade e ao despertar.)
@@ -74,13 +64,9 @@ O caminho para o fim de todo sofrimento é chamado *caminho do meio*, porque evi
 Linguagem, ação e modo de vida corretos constituem o treinamento na virtude ou moralidade. Para um Budista leigo praticante consiste em manter os cinco preceitos Budistas, que são abster-se de:
 
     1. Matar deliberadamente qualquer ser vivo; 
-    
-    2. Roubar; 
-    
-    3. Má conduta sexual, em particular adultério; 
-    
-    4. Mentir; 
-    
+    2. Roubar;
+    3. Má conduta sexual, em particular adultério;
+    4. Mentir;
     5. Beber álcool e tomar drogas não medicinais que conduzem a um enfraquecimento da atenção plena e do juízo moral. 
 
 Esforço correto, atenção plena e quietude corretas referem-se à prática da meditação, que purifica a mente por meio da experiência de estados felizes de tranquilidade interior e capacita a mente a penetrar no sentido da vida por meio de profundos momentos de insight.
