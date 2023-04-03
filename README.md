@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: O que é Budismo?
 permalink: /
 ---
 
