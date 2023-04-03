@@ -40,17 +40,19 @@ O principal ensinamento do Buda não se concentra na especulação filosófica s
 
 Assim, o ensinamento central do Buda, em torno do qual todos os seus outros ensinamentos giram, são as *quatro nobres verdades*:
 
+~~~
     1. Todos os seres, humanos ou não, são atormentados por todos os tipos de decepções, tristezas, desconfortos, ansiedades, etc. Resumindo, eles estão sujeitos ao sofrimento.
     2. A causa desse sofrimento é o desejo, nascido da ilusão de uma ‘alma’ (veja abaixo, tópico 7).
     3. O sofrimento tem um fim na experiência do despertar (Nirvana), que é o completo abandono da ilusão da “alma” e o consequente fim do desejo e da má vontade.
     4. Este despertar pacífico e bem-aventurado é alcançado através de um treinamento gradual, um caminho chamado *caminho do meio* ou *caminho óctuplo*.
+~~~
 
 Seria um erro rotular esse ensinamento como “pessimista” com base no fato de que começa focando no sofrimento. Em vez disso, o Budismo é “realista” na medida em que enfrenta rigorosamente a verdade dos muitos sofrimentos da vida, e é “otimista” na medida em que mostra um fim definitivo para o problema: Nirvana, despertar nesta mesma vida! Aqueles que alcançaram esta paz definitiva são exemplos inspiradores que demonstram de uma vez por todas que o Budismo está longe de ser pessimista, mas um caminho para a verdadeira felicidade.
  
 ### 3. O Caminho do Meio ou Caminho Óctuplo 
 O caminho para o fim de todo sofrimento é chamado *caminho do meio*, porque evita os dois extremos da indulgência sensual e do tormento para si mesmo. Somente quando o corpo está em um conforto razoável, mas não em excesso, a mente tem clareza e força para meditar profundamente e descobrir a verdade. Este caminho do meio consiste no cultivo diligente da virtude, meditação e sabedoria, que são explicados em mais detalhes como *o caminho óctuplo*:
 
-~~~
+
     1. Entendimento Correto  
     2. Pensamento Correto  
     3. Linguagem Correta  
@@ -59,7 +61,7 @@ O caminho para o fim de todo sofrimento é chamado *caminho do meio*, porque evi
     6. Esforço Correto  
     7. Atenção Plena Correta  
     8. Quietude Correta
-~~~
+
 
 ('Correto' no sentido de conduzir à felicidade e ao despertar.)
 
