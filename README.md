@@ -50,14 +50,14 @@ Seria um erro rotular esse ensinamento como “pessimista” com base no fato de
 ### 3. O Caminho do Meio ou Caminho Óctuplo 
 O caminho para o fim de todo sofrimento é chamado *caminho do meio*, porque evita os dois extremos da indulgência sensual e do tormento para si mesmo. Somente quando o corpo está em um conforto razoável, mas não em excesso, a mente tem clareza e força para meditar profundamente e descobrir a verdade. Este caminho do meio consiste no cultivo diligente da virtude, meditação e sabedoria, que são explicados em mais detalhes como *o caminho óctuplo*:
 
-    1. Entendimento Correto 
-    2. Pensamento Correto 
-    3. Linguagem Correta 
-    4. Ação Correta 
-    5. Modo de Vida Correto 
-    6. Esforço Correto 
-    7. Atenção Plena Correta 
-    8. Quietude Correta
+    `1. Entendimento Correto 
+    `2. Pensamento Correto 
+    `3. Linguagem Correta 
+    `4. Ação Correta 
+    `5. Modo de Vida Correto 
+    `6. Esforço Correto 
+    `7. Atenção Plena Correta 
+    `8. Quietude Correta
 
 ('Correto' no sentido de conduzir à felicidade e ao despertar.)
 
