@@ -6,13 +6,13 @@ permalink: /
 
 PARA DISTRIBUIÇÃO GRATUITA
 
-© Ajahn Brahmavamso
-Abade do Monastério Budista Bodhinyana (Bodhinyana Buddhist Monastery)
-Diretor Espiritual da Sociedade Budista da Austrália Ocidental (Buddhist Society of Western Australia)
- 
+© Ajahn Brahmavamso  
+Abade do Monastério Budista Bodhinyana (Bodhinyana Buddhist Monastery)  
+Diretor Espiritual da Sociedade Budista da Austrália Ocidental (Buddhist Society of Western Australia)  
+
 Perth, Austrália, abril de 2023
  
-Este livreto pode ser reproduzido sem permissão somente para distribuição gratuita.
+Este livreto pode ser reproduzido sem permissão somente para distribuição gratuita.  
 Em todos os outros casos, é exigida autorização por escrito do titular dos direitos autorais.
 
 ### Introdução
